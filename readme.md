@@ -5,7 +5,7 @@
     - php artisan key:generate
     - buat database pada phpmyadmin 
     - php artisan migrate
-    - php artisan jwt-secret -> lalu copy paste pada file .env -> jwt-secret 
+    - php artisan jwt:secret -> lalu copy paste pada file .env -> jwt:secret 
 
 # Referensi
 
